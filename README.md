@@ -1,1 +1,2 @@
-# c21-bounceoff-and-istouching-
+# p5.play-boilerplate
+Boiler plate for p5.play
